@@ -6,3 +6,6 @@
 * DeepLearningSampleCodes
 
 Is a repo to store some deep learning + remote sensing tutorials that I will implemented in my free time
+
+
+Sadly the theorical and the coding parts of the deep learning information on internet is sparse in many places and is weird to finded in the same place. I will do my best to put usufull information not to apart.
